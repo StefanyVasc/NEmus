@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NEmus</string>
+
+    <string name="single_player_btn">Um Jogador</string>
+    <string name="challenge_mode_btn">Modo Desafio</string>
+    <string name="duo_btn">Multijogador</string>
+    <string name="play_btn">Jogar</string>
+    <string name="configuration_btn">Configuração</string>
+    <string name="about_btn">Sobre</string>
+    <string name="app_about">O aplicativo NEmus surgiu com o objetivo de propagar a cultura musical nordestina de uma forma lúdica e divertida</string>
+    <string name="begin_campaign_btn">Jogar Músicas</string>
+    <string name="challenge_easy_btn">Fácil</string>
+    <string name="challenge_medium_btn">Médio</string>
+    <string name="challenge_hard_btn">Difícil</string>
+    <string name="tip_1">Os historiadores relatam que o Baião antes era conhecido como baiano</string>
+    <string name="continue_btn">Continuar</string>
+
+</resources>
